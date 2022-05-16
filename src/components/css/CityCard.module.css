@@ -1,0 +1,29 @@
+.container{
+    background-color: rgba(0, 0, 0, 0.4);
+    display: inline-block;
+    width: 300px;
+    margin:5px;
+    padding: 5px;
+    padding-bottom: 5vh;
+    border-radius: 5px;
+    color: white;
+}
+
+.img{
+    border-radius: 3px;
+    width: 300px;
+}
+.details{
+    font-weight: 100;
+}
+.weather{
+    font-weight: 400;
+}
+
+.city{
+    text-align: center;
+    margin: 2.5vh 0;
+}
+.details, .weather{
+    padding-left: 20px;
+}
